@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+**TO RUN**
+
+`
+npm i -g electron-packager`
+
+`npm i`
+
+`npm run elec-react`
+
 ## Available Scripts
 
 In the project directory, you can run:

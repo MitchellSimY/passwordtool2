@@ -7,7 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `
 npm i -g electron-packagern`
+
 `npm i`
+
 `npm run elec-react`
 
 ## Available Scripts
